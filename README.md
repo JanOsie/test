@@ -2,4 +2,4 @@
 na potrzeby testu
 dhktgr
 
-Janek zainstalowałeś gita?
+Janek zainstalowjjałeś gita?
